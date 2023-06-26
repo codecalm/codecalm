@@ -23,7 +23,9 @@ I'm the founder and solo developer of [Tabler](https://tabler.io/) and [Tabler I
         </a>
       </td>
       <td width="50%" align="center">
-        <a href="https://github.com/sponsors/codecalm">Become a sponsor</a>
+        <a href="https://www.saaster.io?utm_source=github&utm_medium=sponsorship&utm_campaign=codecalm">
+          <img alt="" src="https://raw.githubusercontent.com/codecalm/codecalm/master/sponsor-saaster.png" />
+        </a>
       </td>
     </tr>
         <tr>
